@@ -1,0 +1,11 @@
+datafile fit_disk_NGC5765b.inp
+minRad 0.3
+maxRad 2.0
+vsysPrior 8304
+vsysUnc  30
+paPrior 135
+paUnc 45
+rotSpeed 600
+rotSpeedUnc 100
+sysLow 8000
+sysHigh 8500
